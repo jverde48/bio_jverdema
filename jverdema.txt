@@ -1,4 +1,7 @@
 
 Desarrollador Java desde hace 8 años, poseo sólidos conocimientos en aplicaciones cliente/servidor y principalmente en aplicaciones construidos en frameworks Java, 
-todos ellos utilizando el estándar J2EE, manejo de frameworks PHP y Javascript.
-Además de involucrarme en desarrollo de los sistemas, he participado en la definición de tecnologías y diseño de
+todos ellos utilizando el estándar J2EE
+Además de involucrarme en desarrollo de los sistemas, he participado en la definición de tecnologías y diseño de arquitectura de los mismos.
+
+Soy una persona a la cual le gustan los retos que el manejo e implementación de la tecnología puedan traer. 
+
