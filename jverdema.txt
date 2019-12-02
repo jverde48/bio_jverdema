@@ -2,3 +2,5 @@ Desarrollador Java
 Vivo en MEXICO
 Me gusta la  tecnologia
 Incidencia en produccion
+Corregido error para hotfix de produccion
+
