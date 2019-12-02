@@ -2,3 +2,7 @@ Soleado y alerrgias
 modificacion
 tiempo de otoño
 ganas de verano
+vacaciones de fin de año
+vacaciones de diciembre
+Incidencia en registro de vacaciones
+Corregido el error de vaciones de diciembre
